@@ -1,4 +1,4 @@
-package com.zoho.rmp.espoir.ddl.exception;
+package com.orm.espoir.ddl.exception;
 
 public class DDLException extends Exception {
 	public DDLException(String message) {

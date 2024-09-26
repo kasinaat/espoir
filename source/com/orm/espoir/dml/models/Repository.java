@@ -1,4 +1,4 @@
-package com.zoho.rmp.espoir.dml.models;
+package com.orm.espoir.dml.models;
 
 import java.util.List;
 

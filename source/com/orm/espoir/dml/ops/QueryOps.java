@@ -1,7 +1,7 @@
-package com.zoho.rmp.espoir.dml.ops;
+package com.orm.espoir.dml.ops;
 
-import com.zoho.rmp.espoir.ddl.models.Column;
-import com.zoho.rmp.espoir.ddl.models.Table;
+import com.orm.espoir.ddl.models.Column;
+import com.orm.espoir.ddl.models.Table;
 
 import java.lang.reflect.Field;
 

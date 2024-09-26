@@ -1,7 +1,7 @@
-package com.zoho.rmp.espoir.dml.models;
+package com.orm.espoir.dml.models;
 
-import com.zoho.rmp.espoir.connection.PhoenixDBConnection;
-import com.zoho.rmp.espoir.dml.ops.QueryOps;
+import com.orm.espoir.dml.ops.QueryOps;
+import com.orm.espoir.connection.PhoenixDBConnection;
 
 import java.lang.reflect.Field;
 import java.sql.Connection;

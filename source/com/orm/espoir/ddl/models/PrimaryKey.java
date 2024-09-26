@@ -1,9 +1,8 @@
-package com.zoho.rmp.espoir.ddl.models;
+package com.orm.espoir.ddl.models;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 @Retention(RetentionPolicy.RUNTIME)
-public @interface Table {
-	String name();
+public @interface PrimaryKey {
 }

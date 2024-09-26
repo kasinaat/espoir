@@ -1,11 +1,11 @@
 //ignorei18n_start
-package com.zoho.rmp.espoir.ddl.ops;
+package com.orm.espoir.ddl.ops;
 
-import com.zoho.rmp.espoir.connection.PhoenixDBConnection;
-import com.zoho.rmp.espoir.ddl.exception.DDLException;
-import com.zoho.rmp.espoir.ddl.models.Column;
-import com.zoho.rmp.espoir.ddl.models.PrimaryKey;
-import com.zoho.rmp.espoir.ddl.models.Table;
+import com.orm.espoir.connection.PhoenixDBConnection;
+import com.orm.espoir.ddl.exception.DDLException;
+import com.orm.espoir.ddl.models.Column;
+import com.orm.espoir.ddl.models.PrimaryKey;
+import com.orm.espoir.ddl.models.Table;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 import org.reflections.Reflections;
